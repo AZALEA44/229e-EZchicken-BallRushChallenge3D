@@ -8531,7 +8531,7 @@ MonoBehaviour:
   maxHealth: 3
   currentHealth: 0
   healthText: {fileID: 1292755249}
-  damageParticlesPrefab: {fileID: 74078499623404260, guid: 9790383d97594f049aecba8cf470e3b7, type: 3}
+  damageParticlesPrefab: {fileID: 5601036089067188820, guid: 924e772d99fea934f8c7dff7c622e78a, type: 3}
   damageParticleSpawnPoint: {fileID: 4451852}
   playerRenderer: {fileID: 1471856098}
   damageColor: {r: 0, g: 0, b: 0, a: 1}
